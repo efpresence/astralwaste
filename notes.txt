@@ -1,0 +1,9 @@
+TO CHECK OUT:
+SSH in to Raspi (secure)
+Streaming - shoutcast? static page?
+Buy astralwaste?
+Python play mp3
+Python stream audio
+mixcloud puller?
+Securing Raspi
+MusicPlayerDaemon
